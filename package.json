@@ -5,7 +5,8 @@
   "author": "David's Devel <djgm1206@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "start": "node server"
   },
   "dependencies": {
     "express": "^4.18.2",
